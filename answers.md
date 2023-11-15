@@ -7,3 +7,4 @@ Source control, especially Git/GitHub, is great for a number of reason, includin
 A remote repository is a remote storage of code you can potenitally access on your computer.
 A local repository is locally downloaded storage of code unique to your computer.
 One can download and 'fork' a remote repository to potentially make and changes and use various commands.
+One can also commit changes to a remote repository and 'pull' the changes to a local repository.
