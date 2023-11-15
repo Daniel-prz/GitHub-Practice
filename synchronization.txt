@@ -1,0 +1,3 @@
+My first run-in with an error on GitHub was a failure to commit changes I made to a local repository into my remote repository, due to not being signed in and not giving a name or email.
+I resolved this using git commands "$ git --global user.name 'myname'" and "$ git --global user.email 'myemail.com'" to enter my GitHub username and email. I also signed in.
+My experience using GitHub so far has given me a idea of how such an application could be used to collaborate with other developers, and keep a history of activity and changes to various projects.
